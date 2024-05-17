@@ -1,21 +1,21 @@
-# 🎉 Thank You, Docex Team! 🎉
+ # 🎉 Thank You, Docex Team! 🎉
 
 ## A Heartfelt Farewell
 
 ---
 
-Dear Docx Team,
+    Dear Docx Team,
 
-I wanted to take a moment to express my deepest gratitude for the incredible support and help you all have given me throughout my years at Entrata. Your dedication, collaboration, and friendship have made my journey here truly memorable. 🌟
+    I wanted to take a moment to express my deepest gratitude for the incredible support and help you all have given me throughout my years at Entrata. Your dedication, collaboration, and friendship have made my journey here truly memorable. 🌟
 
-As I submit my final PR, I want to say goodbye to each and every one of you. It's been an amazing experience working alongside such a talented and passionate team.
+    As I submit my final PR, I want to say goodbye to each and every one of you. It's been an amazing experience working alongside such a talented and passionate team.
 
-Thank you from the bottom of my heart. 🙏
+    Thank you from the bottom of my heart. 🙏
 
-Wishing you all continued success and happiness.
+    Wishing you all continued success and happiness.
 
-With sincere appreciation,  
-Rahul Shewale
+    With sincere appreciation,  
+    Rahul Shewale
 
 ---
 
@@ -26,7 +26,6 @@ Rahul Shewale
 
 
 ### Once again, thank you, Docx Team! 🚀
-
 
 ---
 
